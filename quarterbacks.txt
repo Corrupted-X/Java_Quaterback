@@ -1,0 +1,10 @@
+Clark_Kent 150 110 3520 100 15
+Bruce_Wayne 560 240 4770 46 8
+Tony_Stark 567 315 4359 75 3
+Peter_Parker 426 256 3470 60 5
+Arthur_Curry 510 406 5067 94 14
+Hank_Pym 315 101 4310 78 19
+T'Challa 350 235 3670 64 9
+Victor_Stone 567 245 4376 81 20
+Jason_Todd 426 235 4215 55 12
+Sam_Wilson 320 115 5620 30 10
